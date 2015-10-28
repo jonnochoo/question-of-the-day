@@ -1,0 +1,24 @@
+{
+  "name": "question-of-the-day",
+  "version": "1.0.0",
+  "description": "a small app that sends a random question of the day to my pushbullet",
+  "main": "app.js",
+  "dependencies": {
+    "pushbullet": "^1.4.3",
+    "random-js": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonnochoo/question-of-the-day.git"
+  },
+  "author": "Jonathon Choo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonnochoo/question-of-the-day/issues"
+  },
+  "homepage": "https://github.com/jonnochoo/question-of-the-day#readme"
+}
